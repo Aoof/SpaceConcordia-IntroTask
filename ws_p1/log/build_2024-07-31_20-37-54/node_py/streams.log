@@ -1,0 +1,36 @@
+[0.639s] Invoking command in '/home/aoof/Desktop/Coding/SpaceConcordia/ws_p1/src/node_py': PYTHONPATH=/home/aoof/Desktop/Coding/SpaceConcordia/ws_p1/build/node_py/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/aoof/Desktop/Coding/SpaceConcordia/ws_p1/install/node_py/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/node_py build --build-base /home/aoof/Desktop/Coding/SpaceConcordia/ws_p1/build/node_py/build install --record /home/aoof/Desktop/Coding/SpaceConcordia/ws_p1/build/node_py/install.log --single-version-externally-managed install_data
+[0.861s] running egg_info
+[0.861s] creating ../../build/node_py/node_py.egg-info
+[0.861s] writing ../../build/node_py/node_py.egg-info/PKG-INFO
+[0.862s] writing dependency_links to ../../build/node_py/node_py.egg-info/dependency_links.txt
+[0.862s] writing entry points to ../../build/node_py/node_py.egg-info/entry_points.txt
+[0.862s] writing requirements to ../../build/node_py/node_py.egg-info/requires.txt
+[0.862s] writing top-level names to ../../build/node_py/node_py.egg-info/top_level.txt
+[0.862s] writing manifest file '../../build/node_py/node_py.egg-info/SOURCES.txt'
+[0.863s] reading manifest file '../../build/node_py/node_py.egg-info/SOURCES.txt'
+[0.864s] writing manifest file '../../build/node_py/node_py.egg-info/SOURCES.txt'
+[0.864s] running build
+[0.864s] running build_py
+[0.864s] creating /home/aoof/Desktop/Coding/SpaceConcordia/ws_p1/build/node_py/build
+[0.864s] creating /home/aoof/Desktop/Coding/SpaceConcordia/ws_p1/build/node_py/build/lib
+[0.865s] creating /home/aoof/Desktop/Coding/SpaceConcordia/ws_p1/build/node_py/build/lib/node_py
+[0.865s] copying node_py/main_node.py -> /home/aoof/Desktop/Coding/SpaceConcordia/ws_p1/build/node_py/build/lib/node_py
+[0.865s] copying node_py/__init__.py -> /home/aoof/Desktop/Coding/SpaceConcordia/ws_p1/build/node_py/build/lib/node_py
+[0.865s] running install
+[0.866s] running install_lib
+[0.866s] creating /home/aoof/Desktop/Coding/SpaceConcordia/ws_p1/install/node_py/lib/python3.10/site-packages/node_py
+[0.867s] copying /home/aoof/Desktop/Coding/SpaceConcordia/ws_p1/build/node_py/build/lib/node_py/main_node.py -> /home/aoof/Desktop/Coding/SpaceConcordia/ws_p1/install/node_py/lib/python3.10/site-packages/node_py
+[0.867s] copying /home/aoof/Desktop/Coding/SpaceConcordia/ws_p1/build/node_py/build/lib/node_py/__init__.py -> /home/aoof/Desktop/Coding/SpaceConcordia/ws_p1/install/node_py/lib/python3.10/site-packages/node_py
+[0.867s] byte-compiling /home/aoof/Desktop/Coding/SpaceConcordia/ws_p1/install/node_py/lib/python3.10/site-packages/node_py/main_node.py to main_node.cpython-310.pyc
+[0.868s] byte-compiling /home/aoof/Desktop/Coding/SpaceConcordia/ws_p1/install/node_py/lib/python3.10/site-packages/node_py/__init__.py to __init__.cpython-310.pyc
+[0.868s] running install_data
+[0.868s] creating /home/aoof/Desktop/Coding/SpaceConcordia/ws_p1/install/node_py/share/ament_index
+[0.868s] creating /home/aoof/Desktop/Coding/SpaceConcordia/ws_p1/install/node_py/share/ament_index/resource_index
+[0.868s] creating /home/aoof/Desktop/Coding/SpaceConcordia/ws_p1/install/node_py/share/ament_index/resource_index/packages
+[0.868s] copying resource/node_py -> /home/aoof/Desktop/Coding/SpaceConcordia/ws_p1/install/node_py/share/ament_index/resource_index/packages
+[0.868s] copying package.xml -> /home/aoof/Desktop/Coding/SpaceConcordia/ws_p1/install/node_py/share/node_py
+[0.868s] running install_egg_info
+[0.869s] Copying ../../build/node_py/node_py.egg-info to /home/aoof/Desktop/Coding/SpaceConcordia/ws_p1/install/node_py/lib/python3.10/site-packages/node_py-0.0.0-py3.10.egg-info
+[0.870s] running install_scripts
+[0.888s] writing list of installed files to '/home/aoof/Desktop/Coding/SpaceConcordia/ws_p1/build/node_py/install.log'
+[0.916s] Invoked command in '/home/aoof/Desktop/Coding/SpaceConcordia/ws_p1/src/node_py' returned '0': PYTHONPATH=/home/aoof/Desktop/Coding/SpaceConcordia/ws_p1/build/node_py/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/aoof/Desktop/Coding/SpaceConcordia/ws_p1/install/node_py/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/node_py build --build-base /home/aoof/Desktop/Coding/SpaceConcordia/ws_p1/build/node_py/build install --record /home/aoof/Desktop/Coding/SpaceConcordia/ws_p1/build/node_py/install.log --single-version-externally-managed install_data

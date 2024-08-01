@@ -1,0 +1,26 @@
+[0.013s] Invoking command in '/home/aoof/Desktop/Coding/SpaceConcordia/ws_p1/build/node_cpp': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/aoof/Desktop/Coding/SpaceConcordia/ws_p1/install/node_py:/opt/ros/humble /usr/bin/cmake --build /home/aoof/Desktop/Coding/SpaceConcordia/ws_p1/build/node_cpp -- -j12 -l12
+[0.061s] [35m[1mConsolidate compiler generated dependencies of target node_cpp[0m
+[0.085s] [ 50%] [32mBuilding CXX object CMakeFiles/node_cpp.dir/src/main_node.cpp.o[0m
+[2.887s] [100%] [32m[1mLinking CXX executable node_cpp[0m
+[3.021s] [100%] Built target node_cpp
+[3.034s] Invoked command in '/home/aoof/Desktop/Coding/SpaceConcordia/ws_p1/build/node_cpp' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/aoof/Desktop/Coding/SpaceConcordia/ws_p1/install/node_py:/opt/ros/humble /usr/bin/cmake --build /home/aoof/Desktop/Coding/SpaceConcordia/ws_p1/build/node_cpp -- -j12 -l12
+[3.072s] Invoking command in '/home/aoof/Desktop/Coding/SpaceConcordia/ws_p1/build/node_cpp': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/aoof/Desktop/Coding/SpaceConcordia/ws_p1/install/node_py:/opt/ros/humble /usr/bin/cmake --install /home/aoof/Desktop/Coding/SpaceConcordia/ws_p1/build/node_cpp
+[3.081s] -- Install configuration: ""
+[3.081s] -- Installing: /home/aoof/Desktop/Coding/SpaceConcordia/ws_p1/install/node_cpp/lib/node_cpp/node_cpp
+[3.082s] -- Set runtime path of "/home/aoof/Desktop/Coding/SpaceConcordia/ws_p1/install/node_cpp/lib/node_cpp/node_cpp" to ""
+[3.082s] -- Up-to-date: /home/aoof/Desktop/Coding/SpaceConcordia/ws_p1/install/node_cpp/share/ament_index/resource_index/package_run_dependencies/node_cpp
+[3.082s] -- Up-to-date: /home/aoof/Desktop/Coding/SpaceConcordia/ws_p1/install/node_cpp/share/ament_index/resource_index/parent_prefix_path/node_cpp
+[3.082s] -- Up-to-date: /home/aoof/Desktop/Coding/SpaceConcordia/ws_p1/install/node_cpp/share/node_cpp/environment/ament_prefix_path.sh
+[3.083s] -- Up-to-date: /home/aoof/Desktop/Coding/SpaceConcordia/ws_p1/install/node_cpp/share/node_cpp/environment/ament_prefix_path.dsv
+[3.083s] -- Up-to-date: /home/aoof/Desktop/Coding/SpaceConcordia/ws_p1/install/node_cpp/share/node_cpp/environment/path.sh
+[3.083s] -- Up-to-date: /home/aoof/Desktop/Coding/SpaceConcordia/ws_p1/install/node_cpp/share/node_cpp/environment/path.dsv
+[3.083s] -- Up-to-date: /home/aoof/Desktop/Coding/SpaceConcordia/ws_p1/install/node_cpp/share/node_cpp/local_setup.bash
+[3.083s] -- Up-to-date: /home/aoof/Desktop/Coding/SpaceConcordia/ws_p1/install/node_cpp/share/node_cpp/local_setup.sh
+[3.083s] -- Up-to-date: /home/aoof/Desktop/Coding/SpaceConcordia/ws_p1/install/node_cpp/share/node_cpp/local_setup.zsh
+[3.083s] -- Up-to-date: /home/aoof/Desktop/Coding/SpaceConcordia/ws_p1/install/node_cpp/share/node_cpp/local_setup.dsv
+[3.083s] -- Installing: /home/aoof/Desktop/Coding/SpaceConcordia/ws_p1/install/node_cpp/share/node_cpp/package.dsv
+[3.083s] -- Up-to-date: /home/aoof/Desktop/Coding/SpaceConcordia/ws_p1/install/node_cpp/share/ament_index/resource_index/packages/node_cpp
+[3.083s] -- Up-to-date: /home/aoof/Desktop/Coding/SpaceConcordia/ws_p1/install/node_cpp/share/node_cpp/cmake/node_cppConfig.cmake
+[3.083s] -- Up-to-date: /home/aoof/Desktop/Coding/SpaceConcordia/ws_p1/install/node_cpp/share/node_cpp/cmake/node_cppConfig-version.cmake
+[3.083s] -- Up-to-date: /home/aoof/Desktop/Coding/SpaceConcordia/ws_p1/install/node_cpp/share/node_cpp/package.xml
+[3.086s] Invoked command in '/home/aoof/Desktop/Coding/SpaceConcordia/ws_p1/build/node_cpp' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/aoof/Desktop/Coding/SpaceConcordia/ws_p1/install/node_py:/opt/ros/humble /usr/bin/cmake --install /home/aoof/Desktop/Coding/SpaceConcordia/ws_p1/build/node_cpp

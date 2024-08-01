@@ -1,0 +1,22 @@
+[35m[1mConsolidate compiler generated dependencies of target node_cpp[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/node_cpp.dir/src/main_node.cpp.o[0m
+[100%] [32m[1mLinking CXX executable node_cpp[0m
+[100%] Built target node_cpp
+-- Install configuration: ""
+-- Installing: /home/aoof/Desktop/Coding/SpaceConcordia/ws_p1/install/node_cpp/lib/node_cpp/node_cpp
+-- Set runtime path of "/home/aoof/Desktop/Coding/SpaceConcordia/ws_p1/install/node_cpp/lib/node_cpp/node_cpp" to ""
+-- Up-to-date: /home/aoof/Desktop/Coding/SpaceConcordia/ws_p1/install/node_cpp/share/ament_index/resource_index/package_run_dependencies/node_cpp
+-- Up-to-date: /home/aoof/Desktop/Coding/SpaceConcordia/ws_p1/install/node_cpp/share/ament_index/resource_index/parent_prefix_path/node_cpp
+-- Up-to-date: /home/aoof/Desktop/Coding/SpaceConcordia/ws_p1/install/node_cpp/share/node_cpp/environment/ament_prefix_path.sh
+-- Up-to-date: /home/aoof/Desktop/Coding/SpaceConcordia/ws_p1/install/node_cpp/share/node_cpp/environment/ament_prefix_path.dsv
+-- Up-to-date: /home/aoof/Desktop/Coding/SpaceConcordia/ws_p1/install/node_cpp/share/node_cpp/environment/path.sh
+-- Up-to-date: /home/aoof/Desktop/Coding/SpaceConcordia/ws_p1/install/node_cpp/share/node_cpp/environment/path.dsv
+-- Up-to-date: /home/aoof/Desktop/Coding/SpaceConcordia/ws_p1/install/node_cpp/share/node_cpp/local_setup.bash
+-- Up-to-date: /home/aoof/Desktop/Coding/SpaceConcordia/ws_p1/install/node_cpp/share/node_cpp/local_setup.sh
+-- Up-to-date: /home/aoof/Desktop/Coding/SpaceConcordia/ws_p1/install/node_cpp/share/node_cpp/local_setup.zsh
+-- Up-to-date: /home/aoof/Desktop/Coding/SpaceConcordia/ws_p1/install/node_cpp/share/node_cpp/local_setup.dsv
+-- Installing: /home/aoof/Desktop/Coding/SpaceConcordia/ws_p1/install/node_cpp/share/node_cpp/package.dsv
+-- Up-to-date: /home/aoof/Desktop/Coding/SpaceConcordia/ws_p1/install/node_cpp/share/ament_index/resource_index/packages/node_cpp
+-- Up-to-date: /home/aoof/Desktop/Coding/SpaceConcordia/ws_p1/install/node_cpp/share/node_cpp/cmake/node_cppConfig.cmake
+-- Up-to-date: /home/aoof/Desktop/Coding/SpaceConcordia/ws_p1/install/node_cpp/share/node_cpp/cmake/node_cppConfig-version.cmake
+-- Up-to-date: /home/aoof/Desktop/Coding/SpaceConcordia/ws_p1/install/node_cpp/share/node_cpp/package.xml

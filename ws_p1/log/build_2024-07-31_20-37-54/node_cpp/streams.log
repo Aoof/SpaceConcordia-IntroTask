@@ -1,0 +1,68 @@
+[0.015s] Invoking command in '/home/aoof/Desktop/Coding/SpaceConcordia/ws_p1/build/node_cpp': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/aoof/Desktop/Coding/SpaceConcordia/ws_p1/src/node_cpp -DCMAKE_INSTALL_PREFIX=/home/aoof/Desktop/Coding/SpaceConcordia/ws_p1/install/node_cpp
+[0.267s] -- The C compiler identification is GNU 11.4.0
+[0.555s] -- The CXX compiler identification is GNU 11.4.0
+[0.566s] -- Detecting C compiler ABI info
+[0.697s] -- Detecting C compiler ABI info - done
+[0.705s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.761s] -- Detecting C compile features
+[0.762s] -- Detecting C compile features - done
+[0.767s] -- Detecting CXX compiler ABI info
+[0.915s] -- Detecting CXX compiler ABI info - done
+[0.923s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.924s] -- Detecting CXX compile features
+[0.924s] -- Detecting CXX compile features - done
+[0.983s] -- Found ament_cmake: 1.3.9 (/opt/ros/humble/share/ament_cmake/cmake)
+[1.142s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[1.264s] -- Found rclcpp: 16.0.9 (/opt/ros/humble/share/rclcpp/cmake)
+[1.392s] -- Found rosidl_generator_c: 3.1.5 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[1.399s] -- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[1.411s] -- Found rosidl_generator_cpp: 3.1.5 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[1.429s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.453s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.540s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[1.544s] -- Found rmw_fastrtps_cpp: 6.2.6 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[1.664s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[1.693s] -- Found FastRTPS: /opt/ros/humble/include  
+[1.742s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[1.757s] -- Looking for pthread.h
+[1.899s] -- Looking for pthread.h - found
+[1.900s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[2.175s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[2.176s] -- Found Threads: TRUE  
+[2.964s] -- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[3.066s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[3.066s] -- Configured cppcheck include dirs: 
+[3.066s] -- Configured cppcheck exclude dirs and/or files: 
+[3.067s] -- Added test 'lint_cmake' to check CMake code style
+[3.068s] -- Added test 'uncrustify' to check C / C++ code style
+[3.068s] -- Configured uncrustify additional arguments: 
+[3.069s] -- Added test 'xmllint' to check XML markup files
+[3.070s] -- Configuring done
+[3.080s] -- Generating done
+[3.081s] -- Build files have been written to: /home/aoof/Desktop/Coding/SpaceConcordia/ws_p1/build/node_cpp
+[3.090s] Invoked command in '/home/aoof/Desktop/Coding/SpaceConcordia/ws_p1/build/node_cpp' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/aoof/Desktop/Coding/SpaceConcordia/ws_p1/src/node_cpp -DCMAKE_INSTALL_PREFIX=/home/aoof/Desktop/Coding/SpaceConcordia/ws_p1/install/node_cpp
+[3.093s] Invoking command in '/home/aoof/Desktop/Coding/SpaceConcordia/ws_p1/build/node_cpp': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/aoof/Desktop/Coding/SpaceConcordia/ws_p1/build/node_cpp -- -j12 -l12
+[3.148s] [ 50%] [32mBuilding CXX object CMakeFiles/node_cpp.dir/src/main_node.cpp.o[0m
+[8.652s] [100%] [32m[1mLinking CXX executable node_cpp[0m
+[8.873s] [100%] Built target node_cpp
+[8.887s] Invoked command in '/home/aoof/Desktop/Coding/SpaceConcordia/ws_p1/build/node_cpp' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/aoof/Desktop/Coding/SpaceConcordia/ws_p1/build/node_cpp -- -j12 -l12
+[8.923s] Invoking command in '/home/aoof/Desktop/Coding/SpaceConcordia/ws_p1/build/node_cpp': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/aoof/Desktop/Coding/SpaceConcordia/ws_p1/build/node_cpp
+[8.932s] -- Install configuration: ""
+[8.933s] -- Installing: /home/aoof/Desktop/Coding/SpaceConcordia/ws_p1/install/node_cpp/lib/node_cpp/node_cpp
+[8.933s] -- Set runtime path of "/home/aoof/Desktop/Coding/SpaceConcordia/ws_p1/install/node_cpp/lib/node_cpp/node_cpp" to ""
+[8.933s] -- Installing: /home/aoof/Desktop/Coding/SpaceConcordia/ws_p1/install/node_cpp/share/ament_index/resource_index/package_run_dependencies/node_cpp
+[8.933s] -- Installing: /home/aoof/Desktop/Coding/SpaceConcordia/ws_p1/install/node_cpp/share/ament_index/resource_index/parent_prefix_path/node_cpp
+[8.934s] -- Installing: /home/aoof/Desktop/Coding/SpaceConcordia/ws_p1/install/node_cpp/share/node_cpp/environment/ament_prefix_path.sh
+[8.934s] -- Installing: /home/aoof/Desktop/Coding/SpaceConcordia/ws_p1/install/node_cpp/share/node_cpp/environment/ament_prefix_path.dsv
+[8.934s] -- Installing: /home/aoof/Desktop/Coding/SpaceConcordia/ws_p1/install/node_cpp/share/node_cpp/environment/path.sh
+[8.934s] -- Installing: /home/aoof/Desktop/Coding/SpaceConcordia/ws_p1/install/node_cpp/share/node_cpp/environment/path.dsv
+[8.934s] -- Installing: /home/aoof/Desktop/Coding/SpaceConcordia/ws_p1/install/node_cpp/share/node_cpp/local_setup.bash
+[8.934s] -- Installing: /home/aoof/Desktop/Coding/SpaceConcordia/ws_p1/install/node_cpp/share/node_cpp/local_setup.sh
+[8.935s] -- Installing: /home/aoof/Desktop/Coding/SpaceConcordia/ws_p1/install/node_cpp/share/node_cpp/local_setup.zsh
+[8.935s] -- Installing: /home/aoof/Desktop/Coding/SpaceConcordia/ws_p1/install/node_cpp/share/node_cpp/local_setup.dsv
+[8.935s] -- Installing: /home/aoof/Desktop/Coding/SpaceConcordia/ws_p1/install/node_cpp/share/node_cpp/package.dsv
+[8.935s] -- Installing: /home/aoof/Desktop/Coding/SpaceConcordia/ws_p1/install/node_cpp/share/ament_index/resource_index/packages/node_cpp
+[8.935s] -- Installing: /home/aoof/Desktop/Coding/SpaceConcordia/ws_p1/install/node_cpp/share/node_cpp/cmake/node_cppConfig.cmake
+[8.935s] -- Installing: /home/aoof/Desktop/Coding/SpaceConcordia/ws_p1/install/node_cpp/share/node_cpp/cmake/node_cppConfig-version.cmake
+[8.936s] -- Installing: /home/aoof/Desktop/Coding/SpaceConcordia/ws_p1/install/node_cpp/share/node_cpp/package.xml
+[8.938s] Invoked command in '/home/aoof/Desktop/Coding/SpaceConcordia/ws_p1/build/node_cpp' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/aoof/Desktop/Coding/SpaceConcordia/ws_p1/build/node_cpp
