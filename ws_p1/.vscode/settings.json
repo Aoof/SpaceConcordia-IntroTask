@@ -1,3 +1,14 @@
 {
-    "cmake.configureOnOpen": true
+    "cmake.configureOnOpen": true,
+    "files.associations": {
+        "*.ejs": "html",
+        "atomic": "cpp",
+        "memory": "cpp",
+        "future": "cpp",
+        "type_traits": "cpp",
+        "typeinfo": "cpp",
+        "chrono": "cpp",
+        "functional": "cpp"
+    },
+    "cmake.ignoreCMakeListsMissing": true,
 }
